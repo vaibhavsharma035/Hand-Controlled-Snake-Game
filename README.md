@@ -1,7 +1,7 @@
 # Hand-Controlled-Snake-Game
 A computer vision–based Snake Game where the player controls the snake using hand gestures through a webcam instead of keyboard input.
 
-**Features**
+Features
 Classic Snake gameplay using Pygame
 Real-time hand tracking with MediaPipe
 Webcam input using OpenCV
@@ -10,7 +10,7 @@ Adjustable snake speed
 Collision detection (wall and self)
 
 
-**Tech Stack**
+Tech Stack
 Python
 Pygame
 OpenCV
